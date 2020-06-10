@@ -1,0 +1,9 @@
+C:\Users\Tolga\source\repos\duzce-tez-api\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\Tolga\source\repos\duzce-tez-api\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Tolga\source\repos\duzce-tez-api\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Tolga\source\repos\duzce-tez-api\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Tolga\source\repos\duzce-tez-api\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Tolga\source\repos\duzce-tez-api\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Tolga\source\repos\duzce-tez-api\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\Tolga\source\repos\duzce-tez-api\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Tolga\source\repos\duzce-tez-api\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache

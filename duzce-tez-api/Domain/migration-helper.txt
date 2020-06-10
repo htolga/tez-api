@@ -1,0 +1,2 @@
+﻿Add-Migration <name> -Context CurrentContext
+Update-Database -Context CurrentContext
